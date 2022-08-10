@@ -1,6 +1,6 @@
 
 ## Web UI Demo
-> https://gitlab.sz.sensetime.com/scg-iva-bpl/business-best-practices/test/autotest_web_ui
+> https://github.com/zengzhaoyu2528/selenium_demo
 
 ## 什么是Selenium
 Selenium 是一种开源工具，用于在 Web 浏览器上执行自动化测试（使用任何 Web 浏览器进行 Web 应用程序测试）。
